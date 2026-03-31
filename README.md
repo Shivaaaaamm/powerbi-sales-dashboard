@@ -1,38 +1,47 @@
-# powerbi-sales-dashboard
 # 📊 Sales & Profit Dashboard (Power BI)
 
-## 🔍 Project Overview
+🚀 Interactive Power BI dashboard analyzing sales and profit trends across categories, sub-categories, and regions.
 
-This project presents an interactive Power BI dashboard analyzing sales and profit performance across categories, regions, and sub-categories using retail data.
+---
+
+## 🔍 Overview
+
+This project analyzes retail sales data to uncover key business insights related to revenue, profitability, and regional performance.
+
+---
 
 ## 📈 Key Insights
 
-* Technology category generated highest sales
-* West region contributed highest revenue
-* Copiers and Phones were most profitable sub-categories
-* Higher discounts negatively impacted profit
+* Technology category generates highest revenue and profit
+* West region performs best across all metrics
+* Copiers and Phones are top profit-generating sub-categories
+* High discounts negatively impact profit margins
+
+---
 
 ## 🛠 Tools Used
 
 * Power BI
-* Data Visualization
 * Data Analysis
+* Data Visualization
 
-## 📁 Dataset
-
-Sample Superstore Dataset (Kaggle)
+---
 
 ## 📸 Dashboard Preview
 
 ![Dashboard](dashboard.png)
 
-## 🚀 Features
+---
 
-* KPI Cards (Total Sales, Total Profit)
-* Interactive filters (Region slicer)
-* Category and regional analysis
-* Profitability breakdown
+## 🎯 Features
 
-## 🎯 Conclusion
+* KPI Cards (Total Sales & Profit)
+* Interactive Region Filter (Slicer)
+* Category & Sub-category Analysis
+* Regional Performance Comparison
 
-The dashboard helps identify high-performing categories and regions while highlighting areas of loss for better decision-making.
+---
+
+## 💡 Business Impact
+
+This dashboard helps businesses identify high-performing products and regions while optimizing pricing strategies to improve profitability.
