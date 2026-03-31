@@ -6,30 +6,30 @@
 
 ## 🔍 Business Problem
 
-Businesses often struggle to understand sales performance across regions and product categories, making it difficult to identify profitable areas and optimize pricing strategies.
+Businesses often struggle to understand which products and regions drive revenue and profitability, making it difficult to optimize pricing strategies and improve decision-making.
 
 ---
 
 ## 🎯 Objective
 
-To build an interactive dashboard that provides clear insights into sales, profit, and regional performance to support data-driven decision-making.
+To build an interactive dashboard that provides clear insights into sales, profit, and regional performance to support data-driven business decisions.
 
 ---
 
 ## 📈 Key Insights
 
-* Technology category generates highest revenue and profit
+* Technology category generates the highest revenue and profit
 * West region performs best across all metrics
-* Copiers and Phones are top profit-generating sub-categories
+* Copiers and Phones are the most profitable sub-categories
 * Higher discounts negatively impact profitability
 
 ---
 
 ## 🛠 Tools & Technologies
 
-* Power BI (Dashboard & Visualization)
-* CSV Dataset (Superstore Data)
-* Data Analysis & Visualization Techniques
+* Power BI (Data Visualization & Dashboarding)
+* CSV Dataset (Superstore)
+* Data Analysis Techniques
 
 ---
 
@@ -38,7 +38,7 @@ To build an interactive dashboard that provides clear insights into sales, profi
 * KPI Cards (Total Sales & Total Profit)
 * Interactive Region Filter (Slicer)
 * Category-wise Sales Analysis
-* Sub-category Profit Analysis
+* Sub-category Profit Breakdown
 * Regional Performance Comparison
 
 ---
@@ -51,4 +51,4 @@ To build an interactive dashboard that provides clear insights into sales, profi
 
 ## 💡 Business Impact
 
-This dashboard helps identify high-performing categories and regions, optimize pricing strategies, and improve decision-making by transforming raw data into actionable insights.
+This dashboard enables stakeholders to quickly identify high-performing areas, optimize pricing strategies, and make informed decisions using real-time insights.
